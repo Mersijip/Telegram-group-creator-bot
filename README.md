@@ -1,2 +1,5 @@
 # Telegram-group-creator-bot
-Hi
+BJS code for Telegram group creator bot using Bots.Business
+
+
+
